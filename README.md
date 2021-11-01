@@ -4,12 +4,12 @@
 
 ## Aspiring full stack developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other upcoming programmers
 - 🥅 2021/2022 Goals: Contribute more to Open Source projects
 
 
-### Connect with me:
+### 🌐 Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-onketshaka-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onketshaka) [![Mail Badge](https://img.shields.io/badge/-@onketshaka-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/tshaka.onke) [![Mail Badge](https://img.shields.io/badge/-onketshaka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:onketshaka6@gmail.com)
 <br />
