@@ -1,6 +1,6 @@
 ### Hi there, I'm Onke - <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Website](https://img.shields.io/website?label=onketshaka.com&style=for-the-badge&url=https%3A%2F%2Fpersonal website)](https://onketshaka-github-io.pages.dev/)
+[![Website](https://img.shields.io/website?label=personal website &style=for-the-badge&url=https%3A%2F%2Fonketshaka.com)](https://onketshaka-github-io.pages.dev/)
 
 ## Aspiring full stack developer!!
 
